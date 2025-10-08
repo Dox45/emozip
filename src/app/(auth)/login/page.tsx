@@ -148,12 +148,12 @@ export default function LoginPage() {
                   <div className="w-full border-t border-white/20"></div>
                 </div>
                 <div className="relative bg-gradient-to-r from-indigo-900 to-purple-900 px-4">
-                  <span className="text-white/60 text-sm">or</span>
+                  {/*<span className="text-white/60 text-sm">or</span>*/}
                 </div>
               </div>
 
               {/* Social login button */}
-              <button className="w-full p-4 bg-white/5 hover:bg-white/10 border border-white/20 hover:border-white/30 text-white font-medium rounded-2xl transition-all duration-300 transform hover:scale-105 active:scale-95 backdrop-blur-sm group relative overflow-hidden">
+              {/*<button className="w-full p-4 bg-white/5 hover:bg-white/10 border border-white/20 hover:border-white/30 text-white font-medium rounded-2xl transition-all duration-300 transform hover:scale-105 active:scale-95 backdrop-blur-sm group relative overflow-hidden">
                 <span className="relative z-10 flex items-center justify-center">
                   <svg className="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
@@ -164,7 +164,7 @@ export default function LoginPage() {
                   Continue with Google
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-white/5 to-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              </button>
+              </button>*/}
             </div>
 
             {/* Footer */}
